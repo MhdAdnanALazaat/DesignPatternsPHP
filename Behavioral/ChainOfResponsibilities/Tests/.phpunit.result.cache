@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":270:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:97:"DesignPatterns\Behavioral\ChainOfResponsibilities\Tests\ChainTest::testCanRequestKeyInFastStorage";d:0.016;s:97:"DesignPatterns\Behavioral\ChainOfResponsibilities\Tests\ChainTest::testCanRequestKeyInSlowStorage";d:0.063;}}}

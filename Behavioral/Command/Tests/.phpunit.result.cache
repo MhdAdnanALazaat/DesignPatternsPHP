@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":218:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:67:"DesignPatterns\Behavioral\Command\Tests\CommandTest::testInvocation";d:0.027;s:75:"DesignPatterns\Behavioral\Command\Tests\UndoableCommandTest::testInvocation";d:0.005;}}}
